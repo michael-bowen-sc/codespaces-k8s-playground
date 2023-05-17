@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+
 sudo apt-get update -y
 
 sudo git clone https://github.com/ahmetb/kubectx /opt/kubectx

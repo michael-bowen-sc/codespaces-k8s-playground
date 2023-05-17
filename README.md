@@ -6,7 +6,7 @@ A Minikube based Kubernetes Playground for GitHub Codespaces that leverages devc
 
 Simply fork the repo and launch a new codespace from the forked repo.
 
-## What you will get
+## What you get
 
 1. Access to a Linux terminal with `kubectl`, `helm`, `k9s`, `kubectx`, and `kubens` already installed.
 2. A Minikube instance will automatically start, this takes about 5 minutes so please be patient!

@@ -1,4 +1,5 @@
 .DS_store
+*/.DS_store
 
 # Local .terraform directories
 **/.terraform/*
